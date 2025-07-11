@@ -23,7 +23,6 @@ This project focuses on classifying high rainfall days over the Mumbai-Goa regio
 
 ## 📂 Structure
 - `notebooks/`: Training and evaluation notebooks
-- `src/`: Feature extraction, interpolation, and model scripts
 - `results/`: Plots and metric summaries
 - `data/`: Placeholder (raw data not included due to size)
 
